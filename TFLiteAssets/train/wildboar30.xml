@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>wildboar30.jpg</filename>
+	<path>C:\Users\bazariann\Downloads\train\wildboar30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>603</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wild boar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>49</ymin>
+			<xmax>772</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wild boar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>133</ymin>
+			<xmax>789</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

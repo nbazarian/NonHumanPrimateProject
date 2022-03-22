@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>beagle79.jpg</filename>
+	<path>C:\Users\bazariann\OneDrive - Wentworth Institute of Technology\SeniorDesign\test\beagle79.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>73</ymin>
+			<xmax>669</xmax>
+			<ymax>946</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>greylangur9.png</filename>
+	<path>C:\Users\bazariann\OneDrive - Wentworth Institute of Technology\SeniorDesign\test\greylangur9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>803</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>193</ymin>
+			<xmax>632</xmax>
+			<ymax>1066</ymax>
+		</bndbox>
+	</object>
+</annotation>

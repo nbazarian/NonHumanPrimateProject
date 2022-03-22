@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>macaque51.jpg</filename>
+	<path>C:\Users\bazariann\OneDrive - Wentworth Institute of Technology\SeniorDesign\test\macaque51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>719</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>141</ymin>
+			<xmax>660</xmax>
+			<ymax>820</ymax>
+		</bndbox>
+	</object>
+</annotation>

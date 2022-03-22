@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>beagle32.jpg</filename>
+	<path>C:\Users\bazariann\Downloads\train\beagle32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>24</ymin>
+			<xmax>720</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>macaque29.jpg</filename>
+	<path>C:\Users\bazariann\Downloads\train\macaque29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>537</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>51</ymin>
+			<xmax>792</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

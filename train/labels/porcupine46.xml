@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>porcupine46.jpg</filename>
+	<path>C:\Users\bazariann\Downloads\train\porcupine46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>602</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>porcupine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>3</ymin>
+			<xmax>530</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

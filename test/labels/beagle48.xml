@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>beagle48.gif</filename>
+	<path>C:\Users\bazariann\OneDrive - Wentworth Institute of Technology\SeniorDesign\test\beagle48.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>15</ymin>
+			<xmax>253</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

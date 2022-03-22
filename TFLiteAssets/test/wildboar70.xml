@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>wildboar70.jpg</filename>
+	<path>C:\Users\bazariann\OneDrive - Wentworth Institute of Technology\SeniorDesign\test\wildboar70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1493</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wild boar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>308</ymin>
+			<xmax>1476</xmax>
+			<ymax>979</ymax>
+		</bndbox>
+	</object>
+</annotation>

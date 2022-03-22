@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>porcupine39.jpg</filename>
+	<path>C:\Users\bazariann\OneDrive - Wentworth Institute of Technology\SeniorDesign\test\porcupine39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>porcupine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>97</ymin>
+			<xmax>916</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

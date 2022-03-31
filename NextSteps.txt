@@ -1,0 +1,7 @@
+Next steps for training:
+
+1. More photos of humans to help algorithm differentiate between monkeys and humans (zuckles.jpg was 60% confidence a monkey)
+2. Train with more photos of gray langurs (48% confidence for dog)
+3. Wild boar, dogs and porcupines can be left alone
+4. https://towardsdatascience.com/inferences-from-a-tf-lite-model-transfer-learning-on-a-pre-trained-model-e16e7c5f0ee6
+5. Train with more rhesus monkeys to get confidence above 70%

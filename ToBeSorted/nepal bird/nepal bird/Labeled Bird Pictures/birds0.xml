@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nepal bird</folder>
+	<filename>birds0.jpg</filename>
+	<path>C:\Users\Zach\Desktop\Senior Design\Monkey Pictures\nepal bird\birds0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1496</width>
+		<height>1050</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>70</ymin>
+			<xmax>1231</xmax>
+			<ymax>888</ymax>
+		</bndbox>
+	</object>
+</annotation>

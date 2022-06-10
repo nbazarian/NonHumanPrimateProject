@@ -1,0 +1,26 @@
+<annotation>
+	<folder>assamese macaque nepal</folder>
+	<filename>assamesemacaque17.jpg</filename>
+	<path>C:\Users\Zach\Desktop\Senior Design\Monkey Pictures\assamese macaque nepal\assamesemacaque17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>958</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>265</ymin>
+			<xmax>741</xmax>
+			<ymax>1113</ymax>
+		</bndbox>
+	</object>
+</annotation>

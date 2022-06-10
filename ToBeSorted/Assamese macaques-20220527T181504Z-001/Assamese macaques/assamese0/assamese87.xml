@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Assamese macaques</folder>
+	<filename>assamese87.jpg</filename>
+	<path>C:\Users\bazariann\Downloads\Assamese macaques-20220527T181504Z-001\Assamese macaques\assamese87.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>120</ymin>
+			<xmax>713</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

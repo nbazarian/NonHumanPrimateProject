@@ -1,0 +1,38 @@
+<annotation>
+	<folder>nepalese people</folder>
+	<filename>nepalese37.jpg</filename>
+	<path>C:\Users\bazariann\Downloads\nepalese people-20220603T203143Z-001\nepalese people\nepalese37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1067</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>5</ymin>
+			<xmax>884</xmax>
+			<ymax>1067</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>349</ymin>
+			<xmax>1314</xmax>
+			<ymax>1067</ymax>
+		</bndbox>
+	</object>
+</annotation>

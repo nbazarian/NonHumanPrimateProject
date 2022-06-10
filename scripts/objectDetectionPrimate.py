@@ -1,3 +1,6 @@
+#Nuno Bazarian, 2021-2022 Wentworth Institute of Technology
+#Primate Human Coexistence Project
+
 """
 Run object detection on images, Press ESC to exit the program
 For Raspberry PI, please use `import tflite_runtime.interpreter as tflite` instead

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>children</folder>
+	<filename>child27.jpg</filename>
+	<path>C:\Users\bazariann\Downloads\children-20220603T194303Z-001\children\child27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3613</width>
+		<height>4965</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>843</xmin>
+			<ymin>214</ymin>
+			<xmax>2754</xmax>
+			<ymax>4724</ymax>
+		</bndbox>
+	</object>
+</annotation>

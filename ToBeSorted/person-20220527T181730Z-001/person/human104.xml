@@ -1,0 +1,26 @@
+<annotation>
+	<folder>person</folder>
+	<filename>human104.jpg</filename>
+	<path>C:\Users\bazariann\Downloads\person-20220527T181730Z-001\person\human104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1077</xmin>
+			<ymin>154</ymin>
+			<xmax>1864</xmax>
+			<ymax>1000</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>nepal mule</folder>
+	<filename>Image_92.jpg</filename>
+	<path>C:\Users\bazariann\Downloads\nepal mule-20220610T181910Z-001\nepal mule\Image_92.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>981</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>equine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>457</ymin>
+			<xmax>632</xmax>
+			<ymax>939</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>303</ymin>
+			<xmax>447</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

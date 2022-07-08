@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nepal mule</folder>
+	<filename>Image_73.jpg</filename>
+	<path>C:\Users\bazariann\Downloads\nepal mule-20220610T181910Z-001\nepal mule\Image_73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>equine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>69</ymin>
+			<xmax>386</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

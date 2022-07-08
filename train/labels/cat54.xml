@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nepal cat</folder>
+	<filename>cat54.jpg</filename>
+	<path>C:\Users\bazariann\Downloads\nepal cat-20220610T181921Z-001\nepal cat\cat54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>5</ymin>
+			<xmax>825</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+</annotation>

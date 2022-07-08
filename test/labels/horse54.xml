@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nepal horse</folder>
+	<filename>horse54.jpg</filename>
+	<path>C:\Users\bazariann\Downloads\nepal horse-20220610T181925Z-001\nepal horse\horse54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>88</ymin>
+			<xmax>538</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

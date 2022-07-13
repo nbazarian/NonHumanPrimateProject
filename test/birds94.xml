@@ -1,26 +1,26 @@
 <annotation>
 	<folder>test</folder>
-	<filename>assamese51.jpg</filename>
-	<path>C:\Users\bazariann\Documents\MonkeyDeepLearnModel\NonHumanPrimateProject\test\assamese51.jpg</path>
+	<filename>birds94.jpg</filename>
+	<path>C:\Users\bazariann\Documents\MonkeyDeepLearnModel\NonHumanPrimateProject\test\birds94.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>500</width>
-		<height>333</height>
+		<width>736</width>
+		<height>493</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>monkey</name>
+		<name>bird</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>98</xmin>
-			<ymin>81</ymin>
-			<xmax>240</xmax>
-			<ymax>296</ymax>
+			<xmin>44</xmin>
+			<ymin>71</ymin>
+			<xmax>722</xmax>
+			<ymax>379</ymax>
 		</bndbox>
 	</object>
 </annotation>

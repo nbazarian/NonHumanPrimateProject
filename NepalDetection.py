@@ -299,6 +299,7 @@ _TEXT_COLOR = (0, 255, 255)  # red
 def visualize(
     image: np.ndarray,
     detections: List[Detection],
+    photoDetected: str,
 ) -> np.ndarray:
   """Draws bounding boxes on the input image and return it.
   Args:
@@ -324,21 +325,25 @@ def visualize(
                 _FONT_SIZE, _TEXT_COLOR, _FONT_THICKNESS)
 
    #if something is detected, send out text message
-    if "monkey" in detection.categories[0].label:
-        contents = ['Monkey detected.']
+    if "monkey" in class_name:
+        contents = 'Monkey detected.'
         yag.send('9789792742@vtext.com', 'Animal Detected', contents)
+        yag.send('primatedetection@gmail', 'Animal Detected', contents, photoDetected)
         print("Message sent.")
-    elif "porcupine" in detection.categories[0].label:
+    elif "porcupine" in class_name:
         contents = ['Porcupine detected.']                
         yag.send('9789792742@vtext.com', 'Animal Detected', contents)
+        yag.send('primatedetection@gmail', 'Animal Detected', contents, photoDetected)
         print("Message sent.") 
-    elif "wild boar" in detection.categories[0].label:
+    elif "wild boar" in class_name:
         contents = ['Wild boar detected.']                
         yag.send('9789792742@vtext.com', 'Animal Detected', contents)
+        yag.send('primatedetection@gmail', 'Animal Detected', contents, photoDetected)
         print("Message sent.")
-    elif "dog" in detection.categories[0].label:
+    elif "dog" in class_name:
         contents = ['Dog detected.']                
-        yag.send('9789792742@vtext.com', 'Animal Detected', contents)
+        yag.send('9789792742@vtext.com', 'Animal Detected', content)
+        yag.send('primatedetection@gmail', 'Animal Detected', contents, photoDetected)
         print("Message sent.")
     else:
 
@@ -383,7 +388,7 @@ while True:
                 detections = detector.detect(image_np)
 
                 # Draw keypoints and edges on input image
-                image_np = visualize(image_np, detections)
+                image_np = visualize(image_np, detections,photoDetected)
 
                 # Show the detection result
                 Image.fromarray(image_np)

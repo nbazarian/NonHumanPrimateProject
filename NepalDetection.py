@@ -42,7 +42,7 @@ load_delegate = tf.lite.experimental.load_delegate
 class ObjectDetectorOptions(NamedTuple):
   """A config to initialize an object detector."""
 
-  enable_edgetpu: bool = False
+  enable_edgetpu: bool = True
   """Enable the model to run on EdgeTPU."""
 
   label_allow_list: List[str] = None
@@ -382,7 +382,7 @@ while True:
                       num_threads=4,
                       score_threshold=DETECTION_THRESHOLD,
                 )
-                detector = ObjectDetector(model_path='C:\\Users\\bazariann\\Documents\\MonkeyDeepLearnModel\\NonHumanPrimateProject\\TFLiteAssets\\primate.tflite', options=options)
+                detector = ObjectDetector(model_path='C:\\Users\\bazariann\\Documents\\MonkeyDeepLearnModel\\NonHumanPrimateProject\\TFLiteAssets\\primate_detect_V2.tflite', options=options)
 
                 # Run object detection estimation using the model.
                 detections = detector.detect(image_np)
